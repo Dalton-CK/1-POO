@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sat Sep 26 20:45:39 WEST 2026
+comment0.target=temNivelSuficiente
+comment1.params=nivelAtual nivelMinimo
+comment1.target=boolean temNivelSuficiente(int, int)
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3

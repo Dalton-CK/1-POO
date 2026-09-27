@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sat Sep 26 13:47:12 WEST 2026
+comment0.target=TerminalEspacial
+comment1.target=void Cabe\u00E7alho()
+comment2.target=void tripula\u00E7\u00E3o()
+comment3.target=void destino()
+comment4.target=void EstadoDaNave()
+comment5.target=void MensagemFinal()
+comment6.params=args
+comment6.target=void main(java.lang.String[])
+numComments=7
