@@ -1,0 +1,30 @@
+Exercícios Java
+
+Aula 1  Sintaxe Java e método main
+Exercício 2  Prever antes de executar 
+Resultado
+AB
+C D7
+
+
+Aula 2  Métodos chamados a partir do main
+Exercício 3  Ordem misteriosa
+ABCA
+
+
+
+Aula 4  Classes e objetos
+
+Exercício 4  Encontrar o erro conceptual 
+Explica o que está errado ou incompleto no seguinte código e corrige-o.
+
+Explorador a = new Explorador(); 
+a.nome = "Luna"; 
+Explorador b = new Explorador();; 
+b.nome = "Solar";
+
+System.out.println(a.nome); 
+System.out.println(b.nome);
+
+O objeto b esta incompleto
+
