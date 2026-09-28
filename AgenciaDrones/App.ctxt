@@ -1,6 +1,13 @@
 #BlueJ class context
-#Sun Sep 27 09:49:38 WEST 2026
+#Mon Sep 28 09:07:05 WEST 2026
 comment0.target=App
-comment1.params=args
-comment1.target=void main(java.lang.String[])
-numComments=2
+comment1.target=void mostrarTitulo()
+comment2.target=void mostrarSeparador()
+comment3.target=void mostrarMensagemFinal()
+comment4.params=ida volta
+comment4.target=int calcularTempoTotal(int, int)
+comment5.params=autonomia distancia
+comment5.target=boolean temAutonomia(double, double)
+comment6.params=args
+comment6.target=void main(java.lang.String[])
+numComments=7
